@@ -8,7 +8,7 @@ This repository contains the Project 2(Grocery App)which was assigned as a inter
 
 [Google Developer Profile](https://g.dev/BChandru)
 
-[Project Demo]()
+[Project Demo](https://drive.google.com/file/d/1bVvr2wuyNyMOfIVkwxDt0N5hrnOHhum9/view?usp=drivesdk)
 
 
 <img src="Grocery App Project 2/asset/a.jpg" width="200" /> </t> <img src="Grocery App Project 2/asset/b.jpg" width="200"/>
