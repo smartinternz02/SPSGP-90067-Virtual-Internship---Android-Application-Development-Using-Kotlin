@@ -21,7 +21,7 @@ This repository contains the Project 2(Grocery App)which was assigned as a inter
 
 ## Installation
 
-Clone the repo and install the dependencies.
+Clone the repo using Git and open in android studio
 ```bash
 git clone
 https://github.com/smartinternz02/SPSGP-90067-Virtual-Internship---Android-Application-Development-Using-Kotlin.git
