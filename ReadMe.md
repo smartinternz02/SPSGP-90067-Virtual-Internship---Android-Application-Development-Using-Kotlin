@@ -19,16 +19,12 @@ This repository contains the Project 2(Grocery App)which was assigned as a inter
 * Android build tools v 28+
 * An Android phone 7.0 and up
 
-## Common setup
+## Installation
 
 Clone the repo and install the dependencies.
 
-bash
 git clone
-
-
-Open Android Studio and create a new project from the just downloaded source.
-
+https://github.com/smartinternz02/SPSGP-90067-Virtual-Internship---Android-Application-Development-Using-Kotlin.git
 
 ## Steps for read-only access
 
