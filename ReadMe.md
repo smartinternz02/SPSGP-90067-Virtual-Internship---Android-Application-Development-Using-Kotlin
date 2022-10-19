@@ -16,11 +16,8 @@ This repository contains the Project 2(Grocery App)which was assigned as a inter
 
 * Android Studio
 * Git
-* Contentful CLI (only for write access)
 * Android build tools v 28+
 * An Android phone 7.0 and up
-
-Without any changes, this app is connected to a Contentful space with read-only access. To experience the full end-to-end Contentful experience, you need to connect the app to a Contentful space with read and write access. This enables you to see how content editing in the Contentful web app works and how content changes propagate to this app.
 
 ## Common setup
 
