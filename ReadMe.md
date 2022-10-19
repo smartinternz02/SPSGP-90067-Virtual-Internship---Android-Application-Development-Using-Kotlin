@@ -4,8 +4,6 @@ Virtual Internship - Android Application Development Using Kotlin
 
 This repository contains the Project 2(Grocery App)which was assigned as a internship project by SmartInternz Android Application Development Using Kotlin Internship
 
-[My SmartInternz Profile](https://smartinternz.com/student-profile/feed/U0IyMDIyMDIzNzQ5NQ==)
-
 [Google Developer Profile](https://g.dev/BChandru)
 
 [Project Demo](https://drive.google.com/file/d/1bVvr2wuyNyMOfIVkwxDt0N5hrnOHhum9/view?usp=drivesdk)
